@@ -4,4 +4,4 @@ Simple program that sends a http request to specified URL and then
 prints out the response header, line per line. Useful if you are checking that 
 headers comply with policy, debugging etc. 
 
-
+Same as curl -i but with coloring!
